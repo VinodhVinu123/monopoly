@@ -1,0 +1,32 @@
+Decisions 
+
+
+
+1.Once you create game 2 players will be created.(Player1 , Player 2)
+
+2.Endpoints will be decided as per the username crerated.
+
+3. 2 points will be created for player1 and player 2.
+
+4. when user created player will be assigned $1000
+  
+5.when a rand
+
+
+om number from 2-12 will be created and take as a dies number.
+
+6. Based on the point required to visit place user will be moved to that place.
+
+7. The place will be bought if it is unclaimed otherwise will be given a rent.
+
+8. Whenever user cross start place $200 will be credited to player.
+
+9. whenever the player bought the amount will be debited.
+
+10. When user reaches last place the game will start from begining.
+
+11. already bought places kept and give rent o other player.
+
+12. when other player takes as rent the amount will be credited to opposite player.
+
+13. The game continues until any one player reaches $>=50
